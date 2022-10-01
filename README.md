@@ -4,7 +4,6 @@
 I made this project just for fun. I’m currently learning Data Structures and Algorithms. Fun fact I spend 80% of my day in PC .
 
 Skills: C / C++ / Java / Python / HTML / CSS / Bash
-
 - 🔭 I’m currently working on Web Development. 
 - 🌱 I’m currently learning Data Structure & Algorithm 
 - 📫 How to reach me: sushavan.karmakar@gmail.com 
